@@ -1,4 +1,4 @@
-# QA app
+# React app template
 
 ## Dev
 - install deps `npm i`
